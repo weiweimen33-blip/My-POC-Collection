@@ -1,4 +1,3 @@
-# My-POC-Collection
 import argparse
 import requests
 from multiprocessing import Pool
@@ -46,3 +45,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
